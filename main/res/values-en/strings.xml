@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="button">Enter</string>
+    <string name="texto">Welcome</string>
+</resources>
